@@ -2,7 +2,7 @@
 # December 2016
 
 # SF12_Fix.rb
-# Reason: SF12 Responses from Voice and Swallow DB in the form of text-based answers that need to be converted to 
+# Reason: SF12 Responses from DB in the form of text-based answers that need to be converted to 
 # numeric counterparts for interpretation/analysis in SF12 assessment software.
 
 # Steps:
